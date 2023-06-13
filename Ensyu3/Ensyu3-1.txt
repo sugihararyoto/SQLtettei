@@ -1,0 +1,11 @@
++--------+--------+
+| name_1 | name_2 |
++--------+--------+
+| banana | banana |
+| banana | mikan  |
+| banana | ringo  |
+| mikan  | mikan  |
+| mikan  | ringo  |
+| ringo  | ringo  |
++--------+--------+
+6 rows in set (0.001 sec)
