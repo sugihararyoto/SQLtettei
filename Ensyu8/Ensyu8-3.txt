@@ -1,0 +1,9 @@
++----+---------+
+| id | name    |
++----+---------+
+| 1  | Tanaka  |
+| 2  | Utsumi  |
+| 3  | Ishuin  |
+| 4  | Saionji |
++----+---------+
+4 rows in set (0.000 sec)
